@@ -1,0 +1,39 @@
+*{
+  border: 6 skyblue;
+  box-sizing: border-box;
+  margin: auto;
+  font: bold;
+  
+
+}
+#Full_Form{
+  justify-content: center;
+  align-items: center;
+  
+}
+.Heading{
+  font-size: small;
+  font-family:Verdana, 'Geneva', Tahoma, sans-serif;
+  font-weight: 745;
+  font: bold;
+
+}
+.InputField{
+  margin: 1px ;
+  border-radius: 0.2px;
+  width: 100vh;
+  padding: 5px;
+  background: white;
+ 
+}
+
+.Button{
+  background-color:black;
+  color:white;
+
+
+  
+}
+
+
+
